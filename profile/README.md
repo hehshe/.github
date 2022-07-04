@@ -3,7 +3,7 @@
 2. 分享面试题
 3. 分享资料
 4. LeetCode
-5. [Emmet](https://geek-docs.com/vscode/vscode-tutorials/vscode-emmet-support.html)
+5. [拥抱 Emmet](https://docs.emmet.io/abbreviations/syntax/)
 5. 英语学习
 6. [内推](https://github.com/hehshe/internal-recommendation)
 7. 其它
