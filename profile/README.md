@@ -2,7 +2,7 @@
 1. 练习 git 操作
 2. 分享面试题
 3. 分享资料
-4. LeetCode
+4. [LeetCode](https://github.com/hehshe/leetCode)
 5. [Emmet 官网](https://docs.emmet.io/abbreviations/syntax/)
 6. 英语学习
 7. [内推](https://github.com/hehshe/internal-recommendation)
