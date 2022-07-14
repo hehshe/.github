@@ -11,6 +11,7 @@
    - 转转  |  分享人： **惊觉**
    - 多抓鱼
 9.  其它
+      - [VSCode Mac快捷键](https://github.com/hehshe/shortcut-key)
 
  🤔 温馨小提示： 做测试的仓库记得及时删除喵
 
